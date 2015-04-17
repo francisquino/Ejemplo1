@@ -6,7 +6,7 @@
     <string name="title_activity_main_activity2">MainActivity2Activity</string>
 
     <string name="button">Actualiza TextView</string>
-
+    <string name="hint">Nombre</string>
 
     <string name="title_section1">Section 1</string>
     <string name="title_section2">Section 2</string>
